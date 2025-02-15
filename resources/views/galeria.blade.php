@@ -31,33 +31,33 @@
 				</div>
 
 				<div class="blok_danych ">
-					<div class="gal"><img src="img/g_1_1.jpg">
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_1_1.jpg">
 					</div>
-					<div class="gal"><img src="img/g_1_2.jpg">
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_1_2.jpg">
 					</div>
-					<div class="gal"><img src="img/g_1_3.jpg">
-					</div>
-					<div style="clear:both">
-					</div>
-				</div>
-
-				<div class="blok_danych ">
-					<div class="gal"><img src="img/g_2_1.jpg">
-					</div>
-					<div class="gal"><img src="img/g_2_2.jpg">
-					</div>
-					<div class="gal"><img src="img/g_2_3.jpg">
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_1_3.jpg">
 					</div>
 					<div style="clear:both">
 					</div>
 				</div>
 
 				<div class="blok_danych ">
-					<div class="gal"><img src="img/g_3_1.png">
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_2_1.jpg">
 					</div>
-					<div class="gal"><img src="img/g_3_2.jpg">
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_2_2.jpg">
 					</div>
-					<div class="gal"><img src="img/g_3_3.jpg">
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_2_3.jpg">
+					</div>
+					<div style="clear:both">
+					</div>
+				</div>
+
+				<div class="blok_danych ">
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_3_1.png">
+					</div>
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_3_2.jpg">
+					</div>
+					<div class="gal"><img src="https://storage.googleapis.com/moj-projekt-galeria/g_3_3.jpg">
 					</div>
 					<div style="clear:both">
 					</div>
@@ -76,4 +76,4 @@
 
 </body>
 
-</html>
+</html>j

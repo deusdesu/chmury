@@ -32,7 +32,7 @@
 				</div>
 				<div class="blok_danych">Poniżej znajdziesz informacje o grach, a powyżej możesz w nie zagrać.</div>
 				<div class="blok_danych pomoc">
-					<div class="img"><img src="img/1_snake.jpg"></div>
+					<div class="img"><img src="https://storage.googleapis.com/moj-projekt-galeria/1_snake.jpg"></div>
 					<article>
 						<b>Snake</b> – gra komputerowa, wydana po raz
 						pierwszy w październiku 1976 roku pod nazwą <b>Blockade</b><sup>[1]</sup> i spopularyzowana na
@@ -41,7 +41,7 @@
 					</article>
 				</div>
 				<div class="blok_danych pomoc">
-					<div class="img"><img src="img/2_saper.png"></div>
+					<div class="img"><img src="https://storage.googleapis.com/moj-projekt-galeria/2_saper.png"></div>
 					<article>
 						<b>Saper</b> (tytuł oryginalny <b>Minesweeper</b>) – klasyczna jednoosobowa gra komputerowa
 						napisana w 1981 roku przez <b>Roberta Donnera</b>, dostępna jako akcesorium w każdym systemie
@@ -54,7 +54,7 @@
 					</article>
 				</div>
 				<div class="blok_danych pomoc">
-					<div class="img"><img src="img/3_sudoku.png"></div>
+					<div class="img"><img src="https://storage.googleapis.com/moj-projekt-galeria/3_sudoku.png"></div>
 					<article>
 						<b>Sudoku</b> (jap. 数独 sūdoku; od <b>sū</b>ji wa
 						<b>doku</b>shin ni kagiru, czyli cyfry muszą być pojedyncze) – łamigłówka, której celem jest
