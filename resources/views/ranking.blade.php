@@ -51,6 +51,7 @@
                             </div>
                         @endif
                     @endforeach
+                    <div style="clear:both;"></div>
                 </div>
 
                 <div class="blok_danych">
