@@ -68,7 +68,7 @@
 				<div class="blok_danych ">Galeria zdjęć przedstawia różne wizje tych samych gier.</div>
 				<div class="blok_danych ">Od góry snake, saper oraz sudoku.</div>
 			</div>
-			<footer>Programowanie systemów webowych</footer>
+			<footer>Programowanie w środowiskach rozproszonych - Raport zaliczeniowy - Maciej Rak 46241</footer>
 		</main>
 	</div>
 	<script type="text/javascript" src="js/galeria.js">

@@ -51,7 +51,7 @@
 				<div class="blok_danych "><input type="button" id="pokaz_rozwiacanie" value="Pokaż rozwiązanie!"></div>
 				<div class="blok_danych "><input type="button" id="sprawdzenie" value="Skończone!"></div>
 			</div>
-			<footer>Programowanie systemów webowych</footer>
+			<footer>Programowanie w środowiskach rozproszonych - Raport zaliczeniowy - Maciej Rak 46241</footer>
 
 		</main>
 	</div>

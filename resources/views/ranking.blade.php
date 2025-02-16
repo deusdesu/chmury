@@ -118,8 +118,8 @@
             @foreach ($records as $record)
     <p>{{ $record->login }} - {{ $record->game_type }} - {{ $record->value }}</p>
 @endforeach
-            <footer>Programowanie systemów webowych</footer>
-        </main>
+<footer>Programowanie w środowiskach rozproszonych - Raport zaliczeniowy - Maciej Rak 46241</footer>
+</main>
     </div>
     <script type="text/javascript" src="js/ranking.js"></script>
 </body>

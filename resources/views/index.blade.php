@@ -82,7 +82,7 @@
 						Minesweeper </a></div>
 				<div class="blok_danych ">4. <a href="https://pl.wikipedia.org/wiki/Sudoku"> Sudoku </a></div>
 			</div>
-			<footer>Programowanie systemów webowych</footer>
+			<footer>Programowanie w środowiskach rozproszonych - Raport zaliczeniowy - Maciej Rak 46241</footer>
 		</main>
 	</div>
 </body>

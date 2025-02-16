@@ -55,7 +55,7 @@
 				<div class="blok_danych "><input type="button" id="od_nowa" value="Zacznij od nowa!"></div>
 
 			</div>
-			<footer>Programowanie systemów webowych</footer>
+			<footer>Programowanie w środowiskach rozproszonych - Raport zaliczeniowy - Maciej Rak 46241</footer>
 		</main>
 	</div>
 	<div id="pokaz_mgle"></div>
